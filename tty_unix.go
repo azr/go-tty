@@ -1,5 +1,6 @@
 // +build !windows
 // +build !plan9
+// +build !solaris
 
 package tty
 
